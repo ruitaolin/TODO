@@ -1,4 +1,4 @@
-# A Triple-Outcome Double-Criterion Optimal (TODO) Design
+# A Triple-Outcome Double-Criterion Optimal (TODO) Design for Dose Monitoring-and-Optimization in Multi-Dose Randomized Trials
 
 R codes to implement triple-outcome double-criterion optimal design in multi-dose randomized trials.
 
